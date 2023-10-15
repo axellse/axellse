@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=axelanse&label=Profile%20views&color=0e75b6&style=flat" alt="axelanse" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=axelanse" alt="axelanse" /></a> </p>
 
 - 🔭 I’m currently working on [pyrret](github.com/pyrretgroup)
 
