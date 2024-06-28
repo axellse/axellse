@@ -1,4 +1,4 @@
-<img src="https://static.wikia.nocookie.net/silly-cat/images/8/86/Uncle.png" alt="cat" width="150"/>
+<img src="https://server.axell.me/static-content/gh-profile-image.png" alt="cat" width="150"/>
 
 hi, im axell. im a full stack dev but i mostly do backend. I code in javascript whenever i can but i know c#, luau, vb and python too. I develop, experiment and reverse engineer on Roblox!
 
